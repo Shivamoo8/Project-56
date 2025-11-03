@@ -1,21 +1,22 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Shivam Mishra
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual Lab
+<b> Experiment|     <b> 52. A VR project that demonstrates Malus’s Law by simulating polarized light and plotting light intensity versus rotation angle interactively.
+
 
 ### About the Experiment 
 
 A VR project that demonstrates Malus’s Law by simulating polarized light and plotting light intensity versus rotation angle interactively.
 
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Shivam Mishra | <b> Information Tecnology
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Rajkiya Emgineering College Banda | <b>  
+<b> shivam83694232@gmail.com     <b>  
+<b> Information Technology |  
 
 ### Contributors List
 
