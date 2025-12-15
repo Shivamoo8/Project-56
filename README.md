@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Shivam Mishra
+<b>Discipline | <b>REC Banda
 :--|:--|
 <b> Lab | <b> Virtual Lab
 <b> Experiment|     <b> 52. A VR project that demonstrates Malus’s Law by simulating polarized light and plotting light intensity versus rotation angle interactively.
